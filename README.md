@@ -36,11 +36,9 @@ Example for index **224258B**:
 
 ## 🖼️ Screenshots
 
-(Add screenshots here — example code:)
 
-```
-![App Screenshot](screenshots/app.png)
-```
+<img width="369" height="749" alt="Screenshot 2025-11-16 181245" src="https://github.com/user-attachments/assets/a2c4e061-89d6-4600-a4b1-be0b741a32ff" />
+
 
 ---
 
